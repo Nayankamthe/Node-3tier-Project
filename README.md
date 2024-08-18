@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 ## INSTRUCTIONS
@@ -27,3 +28,7 @@ Apply the kubernetes files in following order:
 ``` kubectl apply -f frontend.yaml ```
 
 Enjoy!
+=======
+# Node-3tier-Project
+3tier node application deployment using AWS and DevOps process.
+>>>>>>> nodeapp/main
